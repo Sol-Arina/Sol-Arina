@@ -10,7 +10,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sol-Arina&theme=tokyonight&title=-Issues&margin-w=15)](https://github.com/Sol-Arina/github-profile-trophy)
 
-[![codewars](https://www.codewars.com/users/Ashling_Burns%20/badges/large)](https://www.codewars.com/users/Ashling_Burns%20)
+[![codewars](https://www.codewars.com/users/Ashling_Burns%20/badges/micro)](https://www.codewars.com/users/Ashling_Burns%20)
 
 ![](https://raw.githubusercontent.com/Sol-Arina/Sol-Arina/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 [GitHub Snake Light](https://raw.githubusercontent.com/Sol-Arina/Sol-Arina/output/github-contribution-grid-snake.svg#gh-light-mode-only)
