@@ -8,7 +8,7 @@
 [![Arina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sol-Arina&show_icons=true&theme=tokyonight)](https://github.com/Sol-Arina/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sol-Arina&layout=compact&theme=tokyonight)](https://github.com/Sol-Arina/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sol-Arina&theme=tokyonight&title=-Issues&margin-w=2)](https://github.com/Sol-Arina/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sol-Arina&theme=tokyonight&title=-Issues&margin-w=5)](https://github.com/Sol-Arina/github-profile-trophy)
 
 [![codewars](https://www.codewars.com/users/Ashling_Burns%20/badges/large)](https://www.codewars.com/users/Ashling_Burns%20)
 <!--
