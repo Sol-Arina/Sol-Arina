@@ -12,8 +12,8 @@
 
 [![codewars](https://www.codewars.com/users/Ashling_Burns%20/badges/large)](https://www.codewars.com/users/Ashling_Burns%20)
 
-[GitHub Snake Light](https://github.com/Sol-Arina/github-snake/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/Sol-Arina/github-snake/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)!
+![](https://raw.githubusercontent.com/Sol-Arina/Sol-Arina/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+[GitHub Snake Light](https://raw.githubusercontent.com/Sol-Arina/Sol-Arina/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <!--
 **Sol-Arina/Sol-Arina** is a ✨ _special_ 👋 repository because its `README.md` (this file) appears on your GitHub profile.
 
